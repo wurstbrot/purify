@@ -45,6 +45,8 @@
   </a>
 </p>
 
+## OUTDATED
+Purify is not maintained! Please look for alternatives like owasp-defectdojo or SecObserve.
 
 ## Description
 
